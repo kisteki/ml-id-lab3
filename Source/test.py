@@ -8,6 +8,7 @@ from time import gmtime, strftime
 import numpy as np
 from scipy.sparse import lil_matrix
 
+
 start = time.time()
 
 endpoint_name = sys.argv[1]
